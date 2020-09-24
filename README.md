@@ -1,4 +1,5 @@
 # Django-Api
+- The api is created to monitor the time and date of people.
 - the sample JSON file given here -
 https://drive.google.com/open?id=1xZa3UoXZ3uj2j0Q7653iBp1NrT0gKj0Y
 - This JSON file describes a list of users & their corresponding periods of activity across
